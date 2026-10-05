@@ -1,0 +1,24 @@
+# Compiled executables
+sudoku
+src/sudoku
+
+# Object files and dependencies
+*.o
+*.d
+src/*.o
+src/*.d
+
+# Build artifacts
+*.a
+*.so
+
+# Editor & OS files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# Test outputs
+*.out
+output*.txt
